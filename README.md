@@ -1,6 +1,3 @@
-# LearningJava
-Learning Java, Algorithms, and Data Structures
-
 
 # Learning Java, Algorithms, and Data Structures
 
