@@ -3,6 +3,8 @@
 
 Welcome to my repository where I share my journey of learning Java, Algorithms, and Data Structures.
 
+This project is dedicated to learning the Java programming language, data structures, and algorithms. We utilize a Kanban board to segment these subjects into smaller, more digestible units for effective learning.
+
 ## About
 
 This repository contains my personal notes, code snippets, and projects related to Java, Algorithms, and Data Structures. The main goal of this repository is to document my learning process and to share the knowledge I've gained with others.
