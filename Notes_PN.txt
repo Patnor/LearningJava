@@ -1,0 +1,9 @@
+
+
+
+Notes:
+
+Switching to JDK 17: go to java projects
+                     click the ...
+                    Select - Configure java runtime
+                    switch to the jdk of your choice.
